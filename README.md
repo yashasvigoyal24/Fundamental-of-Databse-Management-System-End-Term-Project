@@ -1,8 +1,6 @@
 ## Fundamental-of-Databse-Management-System
 
-This is the dataset from kaggle Reddit_Data Amber Heard - Social Network Analysis
-Only the data of 2018 is taken from the Reddit
-Tools which are used are Google Colab, Python and Gephi.
+This is the dataset from kaggle Reddit_Data Amber Heard - Social Network Analysis. Only the data of 2018 is taken from the Reddit. Tools which are used are Google Colab, Python and Gephi.
 
 # Our Network Layout
 ![Picture 1](https://user-images.githubusercontent.com/93224923/163781968-d25714f6-8a8d-4d85-9929-0b847cd6888c.png)
